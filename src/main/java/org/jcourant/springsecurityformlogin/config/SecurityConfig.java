@@ -35,7 +35,7 @@ public class SecurityConfig {
     public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
         http.csrf(csrf -> csrf.disable()) // Disable CSRF for simplicity in local testing
                 .authorizeHttpRequests(auth -> auth
-                        .requestMatchers("/login", "/recources/**").permitAll()
+                        .requestMatchers("/login", "/resources/**").permitAll()
                         .anyRequest().authenticated()
                 )
                 .formLogin(form -> form
