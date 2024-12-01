@@ -1,4 +1,4 @@
-package org.jcourant.Spring.Security.Form.Login;
+package org.jcourant.springsecurityformlogin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
