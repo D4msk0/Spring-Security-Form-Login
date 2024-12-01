@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c877779-5b6d-4be9-aa2e-638d696a0fac" name="Changes" comment="" />
+    <list default="true" id="2c877779-5b6d-4be9-aa2e-638d696a0fac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jcourant/springsecurityformlogin/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +42,7 @@
     "last_opened_file_path": "/home/merry/Repo/Spring Security Form Login",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -50,9 +54,17 @@
       <recent name="org.jcourant.Spring" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.SpringSecurityFormLoginApplication">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Spring Security Form Login" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSecurityFormLoginApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="SpringSecurityFormLogin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.jcourant.springsecurityformlogin.SpringSecurityFormLoginApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
