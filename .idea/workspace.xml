@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c877779-5b6d-4be9-aa2e-638d696a0fac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/jcourant/springsecurityformlogin/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jcourant/springsecurityformlogin/config/SecurityConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +38,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.SpringSecurityFormLoginApplication (1).executor": "Run",
+    "Spring Boot.SpringSecurityFormLoginApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/merry/Repo/Spring Security Form Login",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -56,7 +62,7 @@
       <recent name="org.jcourant.Spring" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringSecurityFormLoginApplication">
+  <component name="RunManager" selected="Spring Boot.SpringSecurityFormLoginApplication (1)">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Spring Security Form Login" />
       <method v="2">
