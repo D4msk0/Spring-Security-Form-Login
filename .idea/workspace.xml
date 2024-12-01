@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c877779-5b6d-4be9-aa2e-638d696a0fac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jcourant/springsecurityformlogin/config/SecurityConfigTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +18,7 @@
       <list>
         <option value="Class" />
         <option value="HTML File" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -38,6 +39,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JUnit.SecurityConfigTest.executor": "Run",
+    "JUnit.SecurityConfigTest.passwordEncoder.executor": "Run",
+    "JUnit.SecurityConfigTest.securityFilterChain.executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
@@ -46,6 +50,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.SpringSecurityFormLoginApplication (1).executor": "Run",
     "Spring Boot.SpringSecurityFormLoginApplication.executor": "Run",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/merry/Repo/Spring Security Form Login",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -58,11 +64,64 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="org.jcourant.Spring" />
     </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.jcourant.springsecurityformlogin.config" />
+    </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringSecurityFormLoginApplication (1)">
+  <component name="RunManager" selected="JUnit.SecurityConfigTest">
+    <configuration name="SecurityConfigTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringSecurityFormLogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jcourant.springsecurityformlogin.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.jcourant.springsecurityformlogin.config" />
+      <option name="MAIN_CLASS_NAME" value="org.jcourant.springsecurityformlogin.config.SecurityConfigTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecurityConfigTest.passwordEncoder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringSecurityFormLogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jcourant.springsecurityformlogin.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.jcourant.springsecurityformlogin.config" />
+      <option name="MAIN_CLASS_NAME" value="org.jcourant.springsecurityformlogin.config.SecurityConfigTest" />
+      <option name="METHOD_NAME" value="passwordEncoder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecurityConfigTest.securityFilterChain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringSecurityFormLogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jcourant.springsecurityformlogin.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.jcourant.springsecurityformlogin.config" />
+      <option name="MAIN_CLASS_NAME" value="org.jcourant.springsecurityformlogin.config.SecurityConfigTest" />
+      <option name="METHOD_NAME" value="securityFilterChain" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Spring Security Form Login" />
       <method v="2">
@@ -85,6 +144,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SecurityConfigTest" />
+        <item itemvalue="JUnit.SecurityConfigTest.securityFilterChain" />
+        <item itemvalue="JUnit.SecurityConfigTest.passwordEncoder" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
