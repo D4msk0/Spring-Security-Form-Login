@@ -65,6 +65,7 @@ This project is licensed under the MIT License.
 
 
 ## To Do
+- Add Tests
 - Enhance the Application
 - Replace in-memory authentication with database-backed authentication by integrating UserRepository.
 - Add role-based access controls.
